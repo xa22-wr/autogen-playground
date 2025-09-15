@@ -1,0 +1,23 @@
+a2a-sdk==0.3.0 
+autogen-agentchat
+autogen-core
+autogen-ext
+autogen-ext[azure]
+datasets
+azure-ai-inference~=1.0.0b9
+azure-ai-projects==1.0.0b12
+azure-search-documents>=11.5.2
+chainlit
+chromadb ~= 0.6.3
+httpx
+ipykernel~=6.29.5
+langfuse
+mcp[cli]
+mistralai~=0.4.2
+openai
+openlit
+pillow==11.0.0
+python-dotenv~=1.0.1
+pandas
+uvicorn
+nest-asyncio
